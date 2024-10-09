@@ -186,4 +186,4 @@ output "ecs_vs2_ins_ip" {
   description = "ecs2 IP"
 }
 
-#Create RAM role
+#auto scaling
